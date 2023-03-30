@@ -13,5 +13,9 @@ class ConvertStringtocArray
 		 	name1[j]=name.charAt(j);
 		 }
 		 System.out.println(Arrays.toString(name1));
+		 
+		 System.out.println("Hello Eclipse");
+		 System.out.println("push this to githubs");
+		 System.out.println("to global repository.");
 	}
 }
